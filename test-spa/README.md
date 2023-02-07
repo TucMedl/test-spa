@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The purpose of the creation is to test the infrastructure setup for a web portal on aws.
+
 ## Available Scripts
 
 In the project directory, you can run:
